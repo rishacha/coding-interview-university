@@ -1,3 +1,11 @@
+/**
+ * @brief This is a library to record my solutions to 
+ * Competitive Programming problems.
+ * 
+ * @file libproblem.cpp
+ * @author Rishabh Chakrabarti
+ * @date 2018-07-16
+ */
 #include "libproblem.h"
 #include <iostream>
 
